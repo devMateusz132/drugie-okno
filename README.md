@@ -4,3 +4,4 @@
 4. Prośba: ustaw jasny motyw aplikacji zamiast motywu systemowego | diff: 2 linijki | rozumiem: 2/2
 5. Prośba: powiększ napis „Warsztat” do rozmiaru czcionki 32 | diff: 2 linijki | rozumiem: 2/2
 6. Prośba: zmień kolor napisu „Warsztat” na ciemnopomarańczowy | diff: 2 linijki | rozumiem: 2/2
+7. Prośba: ustaw kremowe tło okna (#FFF8E7) | diff: 2 linijki | rozumiem: 2/2
