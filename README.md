@@ -10,3 +10,4 @@
 10. Prośba: po kliknięciu przycisku zmień drugi napis na „Kliknięto przycisk!” | diff: 10 linijek | rozumiem: 10/10
 11. Prośba: dodaj pole tekstowe z podpowiedzią „Wpisz swoje imię” | diff: 1 linijka | rozumiem: 1/1
 12. Prośba: dodaj suwak od 0 do 100 ustawiony na 50 | diff: 1 linijka | rozumiem: 1/1
+13. Prośba: dodaj pole wyboru „Zapamiętaj mnie” | diff: 1 linijka | rozumiem: 1/1

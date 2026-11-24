@@ -11,5 +11,6 @@
         <Button Content="Kliknij mnie" HorizontalAlignment="Center" Click="Przycisk_Click" />
         <TextBox PlaceholderText="Wpisz swoje imię" Width="200" />
         <Slider Minimum="0" Maximum="100" Value="50" Width="200" />
+        <CheckBox Content="Zapamiętaj mnie" HorizontalAlignment="Center" />
     </StackPanel>
 </Window>
