@@ -11,3 +11,4 @@
 11. Prośba: dodaj pole tekstowe z podpowiedzią „Wpisz swoje imię” | diff: 1 linijka | rozumiem: 1/1
 12. Prośba: dodaj suwak od 0 do 100 ustawiony na 50 | diff: 1 linijka | rozumiem: 1/1
 13. Prośba: dodaj pole wyboru „Zapamiętaj mnie” | diff: 1 linijka | rozumiem: 1/1
+14. Prośba: dodaj odstęp 12 pikseli między elementami w oknie | diff: 2 linijki | rozumiem: 2/2
