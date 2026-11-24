@@ -5,3 +5,4 @@
 5. Prośba: powiększ napis „Warsztat” do rozmiaru czcionki 32 | diff: 2 linijki | rozumiem: 2/2
 6. Prośba: zmień kolor napisu „Warsztat” na ciemnopomarańczowy | diff: 2 linijki | rozumiem: 2/2
 7. Prośba: ustaw kremowe tło okna (#FFF8E7) | diff: 2 linijki | rozumiem: 2/2
+8. Prośba: dodaj pod napisem „Warsztat” drugi napis „Moje drugie okno” | diff: 5 linijek | rozumiem: 5/5
