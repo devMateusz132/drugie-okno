@@ -7,7 +7,7 @@
         Title="Warsztat" Width="600" Height="400" Background="#FFF8E7">
     <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
         <TextBlock Text="Warsztat" FontSize="32" Foreground="DarkOrange" HorizontalAlignment="Center" />
-        <TextBlock Text="Moje drugie okno" HorizontalAlignment="Center" />
-        <Button Content="Kliknij mnie" HorizontalAlignment="Center" />
+        <TextBlock x:Name="Podpis" Text="Moje drugie okno" HorizontalAlignment="Center" />
+        <Button Content="Kliknij mnie" HorizontalAlignment="Center" Click="Przycisk_Click" />
     </StackPanel>
 </Window>
